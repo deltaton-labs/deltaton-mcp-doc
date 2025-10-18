@@ -87,7 +87,6 @@ This will create a new message for the specified session.
 ```javascript
 {
   id: <Unique Message ID>,
-  userId: <Your MCP ID>,
   sessionId: <Unique Session ID the message belongs to>,
   content: <The AI response in markdown format>,
   direction: <SENT or RECEIVED>,
